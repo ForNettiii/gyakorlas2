@@ -1,2 +1,2 @@
-# egyketto
+
 # gyakorlas2
